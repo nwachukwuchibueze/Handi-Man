@@ -1,0 +1,83 @@
+.title{
+    transform:translate(15px, 20px)
+}
+.completesignuptext{
+    font-size: 13px;
+    transform: translate(15px, 0px);
+}
+.organisationinputfield{
+    width: 250px;
+    transform: translateX(15px);
+}
+.organisation{
+    transform: translateX(15px);
+}
+.addressinputfield{
+    width: 513px;
+    transform: translateX(15px);
+}
+.address{
+    transform: translate(15px, 10px);
+}
+.streetaddresslines{
+    font-size: 10px;
+    transform:translate(15px, -8px)
+}
+.cityinput{
+    transform: translateX(15px);
+    width: 250px;
+}
+.city{
+    transform: translate(15px, -8px);
+    font-size: 10px;
+}
+.stateprovinceinput{
+    transform: translate(280px, -57px);
+    width: 250px;
+}
+.stateprovince{
+    transform: translate(280px, -64px);
+    font-size: 10px;
+}
+.postalzipcodeinput{
+    transform: translate(15px, -50px);
+    width: 250px;
+}
+.postalzipcode{
+    font-size: 10px;
+    transform: translate(15px, -57px);
+}
+.countryinput{
+    transform: translate(280px, -107px);
+    width: 250px;
+}
+.country{
+    transform: translate(280px, -115px);
+    font-size: 10px;
+}
+.contactname{
+    transform: translate(15px, -90px);
+}
+.firstnameinput{
+    transform: translate(15px, -100px);
+    width: 250px;
+}
+.firstname{
+    transform: translate(15px, -105px);
+    font-size: 10px;
+}
+.lastnameinput{
+    transform: translate(280px, -157px);
+    width: 250px;
+}
+.lastname{
+    transform: translate(282px, -163px);
+    font-size: 10px;
+}
+.submit{
+    transform:translate(240px, -130px);
+    border-style: solid;
+    border-radius: 5px;
+    font-size: medium;
+    height: 30px;
+}

@@ -1,0 +1,44 @@
+
+.title {
+  text-align: center;
+  color: black;
+  transform: translatex(-90px)
+}
+.form{
+  text-align: center;
+}
+
+.inputsize{
+  height: 30px;
+  width: 280px;
+}
+.forgotpasswordbutton{
+  color: rgb(23, 46, 247);
+  border-style: none;
+  background-color: white;
+  transform: translate(-80px, -20px);
+}
+
+.signinbutton{
+  height: 40px;
+  width: 300px;
+  background-color: rgb(2, 2, 66);
+  border-style: solid;
+  border-color: rgb(2, 2, 66);
+  border-radius: 50px;
+  color: white;
+  transform: translateY(-6px);
+}
+
+.div{
+  border-style: solid;
+  border-color: rgb(204, 203, 203);
+  margin: 80px;
+  border-radius: 11px;
+  border-width: 2px;
+}
+
+.paragraph{
+  margin:0px;
+  transform: translate(-40px, -21px)
+}
